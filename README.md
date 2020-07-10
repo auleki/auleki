@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name is Wahab Giwa and I'm an enthusiactic developer who takes pride in helping business and brands make more money. I specialize in building web applications that cater to various sectors, a few examples are e-commerce, health, education and many more. ✨
+Name is Wahab Giwa and I'm an enthusiactic developer who takes pride in helping business and brands make more money. I specialize in building static sites and web applications that cater immensely to various sectors, a few examples are e-commerce, health, education and many more. ✨
 
 - 🔭 I’m currently looking on the lookout for Frontend roles
 
