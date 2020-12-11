@@ -6,8 +6,8 @@ Name is Wahab Giwa and I'm an enthusiastic developer who takes pride in helping 
 
 
 - 📫 How to reach me: ..
-LinkedIn: linkedin.com/in/aukoda
-Twitter: twitter.com/augh0st
+LinkedIn: https://linkedin.com/in/aukoda
+Twitter: https://twitter.com/augh0st
 📞 - +2348089995150
 📧 - kodagiwa@gmail.com
 
