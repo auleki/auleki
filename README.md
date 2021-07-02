@@ -7,9 +7,9 @@ Name is Emmanuel Giwa and I'm an enthusiastic developer who takes pride in helpi
 
 - 📫 How to reach me: ..
 LinkedIn: https://linkedin.com/in/aukoda
-Twitter: https://twitter.com/augh0st
+Twitter: https://twitter.com/giemm
 📞 - +2348089995150
-📧 - kodagiwa@gmail.com
+📧 - iamtundegiwa@gmail.com
 
 <!--
 **auleki/auleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
