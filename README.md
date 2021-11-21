@@ -8,7 +8,7 @@ Name is Emmanuel Giwa and I'm an enthusiastic developer who takes pride in helpi
 - 📫 How to reach me: ..
 LinkedIn: https://linkedin.com/in/aukoda
 Twitter: https://twitter.com/giemm
-📞 - +2348089995150
+📞 - +2349067340854
 📧 - iamtundegiwa@gmail.com
 
 <!--
